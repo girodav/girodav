@@ -1,6 +1,20 @@
-👋 Hello, I’m Davide, a software engineer. I was born and raised in Itay 🇮🇹 but moved to Ireland 🇮🇪 in 2016. Currently, I reside in Dublin.
+## 👋 Hello
+
+I’m Davide, a software engineer. I was born and raised in Itay 🇮🇹 but moved to Ireland 🇮🇪 in 2016. Currently, I reside in Dublin.
 
 I am a Principal Software Engineer at Elastic, where I focus on developing Observability solutions. Before joining Elastic, I spent most of my career at Amazon and Amazon Web Services, mainly working in platform / infrastructure-related teams for RDS Aurora.
+
+## 📫 How to Contact Me
+
+[Linkedin profile](https://www.linkedin.com/in/davidegirardi/) | ✉️ [Email](mailto:hey@girodav.io) | 💬 [Issue](https://github.com/girodav/girodav/issues/me) Me about everything!
+
+## 🔭 Tech / Languages
+
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-black?logo=amazonwebservices&logoColor=white&logoSize=auto) 
+![Go](https://img.shields.io/badge/Go-black?logo=go&logoColor=white&logoSize=auto)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&logoSize=auto)
+
 
 <!--
 **girodav/girodav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📫 How to Contact Me
-
-[Linkedin profile](https://www.linkedin.com/in/davidegirardi/) | ✉️ [Email](mailto:hey@girodav.io) | 💬 [Issue](https://github.com/girodav/girodav/issues/me) Me about everything!
-
-## Tech / Languages
-
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-black?logo=amazonwebservices&logoColor=white&logoSize=auto) 
-![Go](https://img.shields.io/badge/Go-black?logo=go&logoColor=white&logoSize=auto)
-![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&logoSize=auto)
