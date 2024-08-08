@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hello, I’m Davide, a software engineer. I was born and raised in Itay but moved to Ireland in 2016. Currently, I reside in Dublin.
+
+I am a Principal Software Engineer at Elastic, where I focus on developing Observability solutions. Before joining Elastic, I spent most of my career at Amazon and Amazon Web Services, mainly working in platform / infrastructure-related teams for RDS Aurora.
+For more detailed insights into my professional background, check out my [Linkedin profile](https://www.linkedin.com/in/davidegirardi/).
 
 <!--
 **girodav/girodav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
